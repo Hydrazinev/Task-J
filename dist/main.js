@@ -1,0 +1,1 @@
+(()=>{var e=prompt("Enter Your Name: ");document.body.style.backgroundImage='url("https://source.unsplash.com//collection/3101394/3840×1200")',document.body.style.backgroundRepeat="no-repeat",document.body.style.backgroundSize="cover",document.getElementById("name").innerText=e})();
